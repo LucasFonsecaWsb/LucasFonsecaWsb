@@ -27,8 +27,6 @@ Sou um desenvolvedor de software brasileiro, focado em aplicações mobile e web
 
 ## 📝 Projetos
 
-### [Aplicativo de Mapa Universitário (Mockup)](https://github.com/seu-usuario/nome-do-repositorio)
-- Um mockup de aplicativo desenvolvido em Java e Flutter, com o objetivo de ajudar estudantes a navegar pelo campus universitário.
 
 ---
 
