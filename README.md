@@ -47,7 +47,7 @@ Sou um desenvolvedor de software brasileiro, focado em aplicações mobile e web
 
 ---
 
-![Lucas Fonseca Alberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Lucas Fonseca Alberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasFonsecaWsb&show_icons=true&theme=radical)
 
 ---
 
