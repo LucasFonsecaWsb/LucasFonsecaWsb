@@ -10,8 +10,6 @@ Sou um desenvolvedor de software brasileiro, focado em aplicações mobile e web
 
 - 💼 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na [Anhanguera Educacional](https://www.anhanguera.com).
 - 🌱 Estou buscando oportunidades para atuar como **Desenvolvedor Java Junior**.
-- 🧩 Participação ativa em projetos acadêmicos e workshops de tecnologia.
-- 🔍 Preparando-me para o concurso dos Correios 2024.
 - 📚 Sempre buscando aprender e desenvolver novas habilidades!
 
 ---
